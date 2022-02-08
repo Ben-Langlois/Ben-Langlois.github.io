@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.167ad375.js",
+    "main.css": "/static/css/main.d7d7d0ce.css",
+    "main.js": "/static/js/main.b824dbf5.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/portrait2.jpg": "/static/media/portrait2.c17a994fc8fcefdae051.jpg",
+    "static/media/LibreBaskerville-Italic.ttf": "/static/media/LibreBaskerville-Italic.0ebc99f333a6cbc1dfc0.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/LibreBaskerville-Bold.ttf": "/static/media/LibreBaskerville-Bold.14ee45b4ac3fb4aef6f6.ttf",
+    "static/media/LibreBaskerville-Regular.ttf": "/static/media/LibreBaskerville-Regular.a27f99ca45522bb3d56d.ttf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.167ad375.js.map": "/static/js/main.167ad375.js.map",
+    "main.d7d7d0ce.css.map": "/static/css/main.d7d7d0ce.css.map",
+    "main.b824dbf5.js.map": "/static/js/main.b824dbf5.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.167ad375.js"
+    "static/css/main.d7d7d0ce.css",
+    "static/js/main.b824dbf5.js"
   ]
 }
