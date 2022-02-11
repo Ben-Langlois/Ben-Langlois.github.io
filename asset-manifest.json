@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7d7d0ce.css",
-    "main.js": "/static/js/main.b824dbf5.js",
+    "main.css": "/static/css/main.32a59008.css",
+    "main.js": "/static/js/main.2d686860.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/portrait2.jpg": "/static/media/portrait2.c17a994fc8fcefdae051.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.4bf9a0311249c7901787.png",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.54971b7248ded7d0d614.ttf",
     "static/media/LibreBaskerville-Italic.ttf": "/static/media/LibreBaskerville-Italic.0ebc99f333a6cbc1dfc0.ttf",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
     "static/media/LibreBaskerville-Bold.ttf": "/static/media/LibreBaskerville-Bold.14ee45b4ac3fb4aef6f6.ttf",
     "static/media/LibreBaskerville-Regular.ttf": "/static/media/LibreBaskerville-Regular.a27f99ca45522bb3d56d.ttf",
+    "static/media/labtimer.png": "/static/media/labtimer.d7728879f1762ac5baa2.png",
     "index.html": "/index.html",
-    "main.d7d7d0ce.css.map": "/static/css/main.d7d7d0ce.css.map",
-    "main.b824dbf5.js.map": "/static/js/main.b824dbf5.js.map",
+    "main.32a59008.css.map": "/static/css/main.32a59008.css.map",
+    "main.2d686860.js.map": "/static/js/main.2d686860.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7d7d0ce.css",
-    "static/js/main.b824dbf5.js"
+    "static/css/main.32a59008.css",
+    "static/js/main.2d686860.js"
   ]
 }
